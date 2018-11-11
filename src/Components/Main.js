@@ -12,10 +12,10 @@ render() {
     <Router>
       <React.Fragment>
         <Navbar />
-        <Route exact path = "/" Component = {Home} />
-        <Route exact path = "/characters" Component = {Characters} />
-        <Route exact path = "/episodes" Component = {Episodes} />
-        <Route exact path = "/locations" Component = {Locations} />
+        <Route exact path = "/" component = {Home} />
+        <Route exact path = "/characters" component = {Characters} />
+        <Route exact path = "/episodes" component = {Episodes} />
+        <Route exact path = "/locations" component = {Locations} />
       </React.Fragment>
     </Router>
   )
