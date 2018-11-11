@@ -3,8 +3,8 @@ body {
 }
 
 img {
-  height: 80%;
-  width: 80%;
+  height: 60%;
+  width: 60%;
   margin: auto;
   display: flex;
 }
@@ -15,5 +15,5 @@ h1 {
   justify-content: center;
   font-family: 'Bangers', cursive;
   font-size: 3.5em;
-  text-shadow: 1px 1px #C4C4C4;
+  text-shadow: 1px 1px #000000;
 }
