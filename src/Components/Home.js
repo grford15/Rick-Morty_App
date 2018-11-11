@@ -1,9 +1,11 @@
 import React from 'react';
+import './Styling/Home.css';
 
 const Home = () => (
 
-  <div>
-  <h1>Home</h1>
+  <div id = "home">
+  <img src="/images/HomeImg.jpg" alt="Rick & Morty"/>
+  <h1>Welcome to the home of Rick & Morty</h1>
   </div>
 )
 

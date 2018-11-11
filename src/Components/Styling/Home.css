@@ -1,0 +1,19 @@
+body {
+  background-color: #191919;
+}
+
+img {
+  height: 80%;
+  width: 80%;
+  margin: auto;
+  display: flex;
+}
+
+h1 {
+  color: #0A95FF;
+  display: flex;
+  justify-content: center;
+  font-family: 'Bangers', cursive;
+  font-size: 3.5em;
+  text-shadow: 1px 1px #C4C4C4;
+}
